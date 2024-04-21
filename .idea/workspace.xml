@@ -36,29 +36,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.aula 011b.executor": "Run",
-    "Python.aula007b.executor": "Run",
-    "Python.aula008.executor": "Run",
-    "Python.aula008b.executor": "Run",
-    "Python.aula008c.executor": "Run",
-    "Python.aula008d.executor": "Run",
-    "Python.aula010a.executor": "Run",
-    "Python.aula010b.executor": "Run",
-    "Python.aula010c.executor": "Run",
-    "Python.aula010d.executor": "Run",
-    "Python.aula010e.executor": "Run",
-    "Python.aula011.executor": "Run",
-    "Python.aula09.executor": "Run",
-    "Python.aula12.executor": "Run",
-    "Python.ex000.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/user/PycharmProjects/pythonAulas"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.aula 011b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula007b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula008b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula008c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula008d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula010a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula010b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula010c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula010d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula010e.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/pythonAulas&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
